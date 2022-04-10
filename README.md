@@ -9,3 +9,4 @@ It can only be used with Android Studio Java language
 This Code is free to anyone who would like to use it
 
 further updates will be made on this README document along in the application 
+It inserts register data inside a databaseLite.
