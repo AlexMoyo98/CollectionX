@@ -10,3 +10,5 @@ This Code is free to anyone who would like to use it
 
 further updates will be made on this README document along in the application 
 It inserts register data inside a databaseLite.
+
+if theres anyone who would like to contribute on this project you more file welcome to do so
