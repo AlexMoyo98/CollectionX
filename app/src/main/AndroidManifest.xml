@@ -7,8 +7,21 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/Theme.CollectionX">
-
-
+        <activity
+            android:name=".ThingsToDoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ArchitectureActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PhotographyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FashionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RestuarantActivity"
+            android:exported="false" />
         <activity
             android:name=".LoginActivity"
             android:exported="false" />

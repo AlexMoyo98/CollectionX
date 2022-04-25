@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">CollectionX</string>
+    <string name="expand">Expand All</string>
+    <string name="food">Restuarant</string>
+    <string name="fash">Fashion</string>
+    <string name="photo">Photography</string>
+    <string name="expandFash">Expand All</string>
+    <string name="expandPhoto">Expand All</string>
+    <string name="archi">Architecture</string>
+    <string name="expandFun">Expand All</string>
+    <string name="funThings">Fun Things To do</string>
 </resources>

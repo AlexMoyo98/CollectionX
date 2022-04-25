@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="dialogBox" parent="Theme.AppCompat.Dialog.Alert">
+        <item name="colorAccent">#87CEEB</item>
+        <item name="android:textColorPrimary">#000000</item>
+        <item name="android:background">@color/white</item>
+
+        style</style>
+</resources>
